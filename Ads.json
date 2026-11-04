@@ -1,5 +1,7 @@
 {
-         "our_ads1_activation":"true",
+  "max_count_ads": "12",
+
+  "our_ads1_activation":"true",
     "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/GrannyPolice1.png",
     "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.pdfreader.document.editor.freepdf",
 
@@ -15,18 +17,37 @@
     "our_ads_inter_image_url":"https://raw.githubusercontent.com/TestGta/Test/main/inter1.png",
     "our_ads_inter_link_url":"https://play.google.com/store/apps/details?id=com",
 
-  "admob_app_id": "",
-  "admob_banner": "",
-  "admob_interstitial": "",
-  "admob_rewarded_video": "",
+  "admob_app_id": "ca-app-pub-000",
+  "admob_banner": "ca-app-pub-000",
+  "admob_interstitial": "ca-app-pub-000",
+  "admob_rewarded_video": "ca-app-pub-000",
 
-  "unity_app_id": "",
-  "unity_banner": "Banner_Android",
-  "unity_interstitial": "Interstitial_Android",
-  "unity_rewarded_video": "Rewarded_Android",
+  "unity_app_id": "00000000",
+  "unity_banner": "0000000",
+  "unity_interstitial": "00000000",
+  "unity_rewarded_video": "00000000",
 
-  "appLovin_app_id": "",
+  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
   "appLovin_banner": "00000000000",
-  "appLovin_interstitial": "00000000000",
-  "appLovin_rewarded_video": "00000000000"
+  "appLovin_interstitial": "3648a983f2e3c860",
+  "appLovin_rewarded_video": "31113cd98b4cd431",
+
+    "gameplay_ads_mode": "aggressive",
+"min_time_before_gameplay_ads": "60",
+"min_deaths_before_ads": "2",
+
+"use_mediation": "false",
+
+"max_percentage": "70",
+"admob_percentage": "30",
+
+"applovin_activation": "true",
+"unity_activation": "false",
+"admob_activation": "false",
+
+"applovin_percentage": "100",
+"unity_percentage": "0",
+"admob_percentage_non_mediation": "0"
+
+  
 }
