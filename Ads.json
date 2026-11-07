@@ -27,10 +27,10 @@
   "unity_interstitial": "00000000",
   "unity_rewarded_video": "00000000",
 
-  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_app_id": "00000000000",
   "appLovin_banner": "00000000000",
-  "appLovin_interstitial": "3648a983f2e3c860",
-  "appLovin_rewarded_video": "31113cd98b4cd431",
+  "appLovin_interstitial": "00000000000",
+  "appLovin_rewarded_video": "00000000000",
 
     "gameplay_ads_mode": "aggressive",
 "min_time_before_gameplay_ads": "60",
@@ -41,7 +41,7 @@
 "max_percentage": "70",
 "admob_percentage": "30",
 
-"applovin_activation": "true",
+"applovin_activation": "false",
 "unity_activation": "false",
 "admob_activation": "false",
 
